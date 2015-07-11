@@ -7,7 +7,7 @@ I'm particularly passionate about natural language processing, and after complet
 at school and at work, I wanted to work on something like this on the side, to see how building a classification
 algorithm like this off a small test-set can improve drastically over time, as more data comes in.
 
-### Continuous Learning Model ###
+### Continuous Learning ###
 At first, this model and classification algorithm is going to have vastly sub-par results. This is because, at least 
 to start with, the number of examples really won't be enough to build up a meaningful test set. That being said, this
 is an exercise to both see how my personal understanding of natural language improves over time, and to see how an 
