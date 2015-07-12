@@ -4,6 +4,10 @@ section_tags.py
 Example queries tagged with the respective section, for use in training the QA classifier.
 """
 
+# Feature list
+feature_list = ["about_keywords", "education_keywords", "work_keywords", "project_keywords",
+                "why", "who", "where", "what", "how"]
+
 # Different categories data is broken up into.
 sections = ["about", "education", "work", "projects"]
 
